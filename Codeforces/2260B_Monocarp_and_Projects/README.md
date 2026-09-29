@@ -1,11 +1,11 @@
-# 1799A - Recent Actions?
+# 2260B - Monocarp and Projects?
 
 ## Codeforces Problem
 
-- **Problem Number:** 1799A
-- **Problem Name:** Recent Actions
+- **Problem Number:** 2260B
+- **Problem Name:** Monocarp and Projects
 - **Platform:** Codeforces
-- **Problem Link:** https://codeforces.com/problemset/problem/1799/A
+- **Problem Link:** https://codeforces.com/problemset/problem/2260B/B
 
 ## Problem Description
 
