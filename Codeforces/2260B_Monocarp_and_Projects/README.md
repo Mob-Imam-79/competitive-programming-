@@ -5,7 +5,7 @@
 - **Problem Number:** 2260B
 - **Problem Name:** Monocarp and Projects
 - **Platform:** Codeforces
-- **Problem Link:** https://codeforces.com/problemset/problem/2260B/B
+- **Problem Link:** https://codeforces.com/problemset/problem/2260/B
 
 ## Problem Description
 
