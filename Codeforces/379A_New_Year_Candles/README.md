@@ -143,4 +143,4 @@ The problem is solved by repeatedly exchanging burnt-out candles for new candles
 
 Integer division calculates how many new candles can be obtained, while the modulo operator keeps track of the remaining burnt-out candles.
 
-The process continues until no further exchange is possible. The accumulated burning time gives the final answer.
+The process continues until no further exchange is possible. The accumulated burning time gives the final answer
